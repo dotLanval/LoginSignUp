@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CreateDatabase</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="Login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">email</string>
+    <string name="todo">TODO</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="login_su">Login</string>
+    <string name="create_username">Create username</string>
+    <string name="enter_email">Enter email</string>
+    <string name="create_password">Create password</string>
+    <string name="sign_up_su">Sign Up</string>
+</resources>
